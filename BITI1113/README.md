@@ -166,7 +166,7 @@ From there, open up a terminal, and execute the following command:
 |weighted avg|0.99|0.99|0.99|276|
 
 
-![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detector_plot.png)
+![Figure 4](https://s3.amazonaws.com/stackabuse/media/creating-simple-recommender-system-python-pandas-2.png)
 
 Figure 4: Figure 10: COVID-19 face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting on the data
 
