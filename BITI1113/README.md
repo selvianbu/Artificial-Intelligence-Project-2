@@ -1,13 +1,13 @@
 # Music Recommendation System
 ## A. PROJECT SUMMARY
 
-**Project Title:** Face Mask Detection using Deep Learning
+**Project Title:** Music Recommendation System
 
 **Team Members:** 
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
+- Thivya Tamil Selvam
+- Anbu Selvi A/P M Paramasivan
+- Noah Brynner
+- Redwan
 
 
 - [ ] **Objectives:**
