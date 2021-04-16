@@ -187,7 +187,7 @@ You can then launch the mask detector in real-time video streams using the follo
 - INFO] loading face mask detector model...
 - [INFO] starting video stream...
 
-[![Figure5](https://img.youtube.com/vi/wYwW7gAYyxw/0.jpg)](https://www.youtube.com/watch?v=wYwW7gAYyxw "Figure5")
+[![Figure5](https://medium.com/sfu-cspmp/m-a-r-s-music-analysis-recommendation-system-f30424c2c362/0.jpg)](https://medium.com/sfu-cspmp/m-a-r-s-music-analysis-recommendation-system-f30424c2c362)
 
 Figure 5: Mask detector in real-time video streams
 
