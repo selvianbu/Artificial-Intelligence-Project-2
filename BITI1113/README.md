@@ -1,5 +1,4 @@
-# FACE MASK DETECTION USING DEEP LEARNING 
-
+# Music Recommendation System
 ## A. PROJECT SUMMARY
 
 **Project Title:** Face Mask Detection using Deep Learning
