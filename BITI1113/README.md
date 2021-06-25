@@ -9,6 +9,7 @@ Music recommender system is one of the most used machine learning algorithms in 
 There are two main types of recommender systems we have used in our project: 
 
 **1) Content-based recommender**
+
 **2)Popularity based recommender**
 
 **Content-based recommender**
