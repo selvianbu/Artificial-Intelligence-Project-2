@@ -3,8 +3,9 @@
 ## A. PROJECT SUMMARY
 
 **Project Title:** Music Recommendation System
-Music recommender system
-One of the most used machine learning algorithms is recommendation systems. A recommender (or recommendation) system (or engine) is a filtering system which aim is to predict a rating or preference a user would give to an item, eg. a film, a product, a song, etc.
+
+Music recommender system is one of the most used machine learning algorithms in recommendation systems. A recommender (or recommendation) system (or engine) is a filtering system which aim to predict a rating or preference a user would give to an item, eg. a film title, a product, a song, etc.
+
 **Team Members:** 
 - Thivya Tamil Selvam
 - Anbu Selvi A/P M Paramasivan
