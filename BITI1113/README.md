@@ -4,7 +4,7 @@
 
 **Project Title:** Music Recommendation System
 
-Music recommender system is one of the most used machine learning algorithms in recommendation systems. A recommender (or recommendation) system (or engine) is a filtering system which aim to predict a rating or preference a user would give to an item, eg. a film title, a product, a song, etc.
+In this project, we will show you how a music recommendation system works. Music recommender system is one of the most used machine learning algorithms in recommendation systems. A recommender (or recommendation) system (or engine) is a filtering system which aim to predict a rating or preference a user would give to an item, eg. a film title, a product, a song, etc.
 
 There are two main types of recommender systems we have used in our project: 
 
@@ -53,10 +53,17 @@ Figure 1 shows the AI output of detecting which user is not wearing a face mask 
 
 ## C.  DATASET
 
-We’ll review the dataset we’ll be using to show how our music recommendation system works.
+We’ll review the dataset we use in our music recommendation system.
 
 
-In this project, we will show you how a music recommendation system works.
+
+
+
+
+
+
+
+
 
 
 
