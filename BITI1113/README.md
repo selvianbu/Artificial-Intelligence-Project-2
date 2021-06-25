@@ -1,8 +1,10 @@
 # Music Recommendation System
+
 ## A. PROJECT SUMMARY
 
 **Project Title:** Music Recommendation System
-
+Music recommender system
+One of the most used machine learning algorithms is recommendation systems. A recommender (or recommendation) system (or engine) is a filtering system which aim is to predict a rating or preference a user would give to an item, eg. a film, a product, a song, etc.
 **Team Members:** 
 - Thivya Tamil Selvam
 - Anbu Selvi A/P M Paramasivan
@@ -26,15 +28,15 @@ The best safety measure that can be taken is enforcing the people to wear a face
 As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner are going to use AI technology to recognize people whether they are wearing face mask or not in the public or open space.
 
 
-![Coding](https://miro.medium.com/max/1200/1*GMikfjbGYyPGDTYdJuMwhg.png)
+![Coding]()
 Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
 
 
 ## C.  DATASET
 
-In this project, we’ll discuss our two-phase COVID-19 face mask detector, detailing how our computer vision/deep learning pipeline will be implemented.
+In this project, we will show you how a music recommendation system works.
 
-From there, we’ll review the dataset we’ll be using to train our custom face mask detector.
+We’ll review the dataset we’ll be using to show how our music recommendation system works.
 
 I’ll then show you how to implement a Python script to train a face mask detector on our dataset using Keras and TensorFlow.
 
@@ -50,7 +52,7 @@ We’ll wrap up the post by looking at the results of applying our face mask det
 
 There is two-phase COVID-19 face mask detector as shown in Figure 2:
 
-![Figure 2](https://miro.medium.com/max/3024/1*yN8kDC3K7InDPQwlAq5DSQ.png)
+![Figure 2]()
 Figure 2: Phases and individual steps for building a COVID-19 face mask detector with computer vision and deep learning 
 
 In order to train a custom face mask detector, we need to break our project into two distinct phases, each with its own respective sub-steps (as shown by Figure 1 above):
@@ -64,7 +66,7 @@ We’ll review each of these phases and associated subsets in detail in the rema
 
 Our COVID-19 face mask detection dataset as shown in Figure 3:
 
-![Figure 3](https://miro.medium.com/max/3024/1*p9ep5SuihdEVWQTybkvLMg.png)
+![Figure 3]()
 
 Figure 3: A face mask detection dataset consists of “with mask” and “without mask” images. 
 
