@@ -4,32 +4,30 @@
 
 **Project Title:** Music Recommendation System
 
-In this project, we will show you how a music recommendation system works. Music recommender system is one of the most used machine learning algorithms in recommendation systems. A recommender (or recommendation) system (or engine) is a filtering system which aim to predict a rating or preference a user would give to an item, eg. a film title, a product, a song, etc.
+Music recommender system is one in all the foremost used machine learning algorithms in recommendation systems. A recommender (or recommendation) system (or engine) could be a filtering system that aim to predict a rating or preference a user would offer to Associate in Nursing item, eg. a movie title, a product, a song, etc.
 
 There are two main types of recommender systems we have used in our project: 
 
 **1) Content-based recommender**
-
 **2)Popularity based recommender**
 
 **Content-based recommender**
 
-This type of receommender system is user-specific classification problem. This classifier learns the user's likes and dislikes from the features of the song.
+This type of recommender system is user-specific classification downside. This classifier learns the user's likes and dislikes from the options of the song.
 
 The most straightforward approach is **keyword matching**.
 
-In a few words, the idea behind is to extract meaningful keywords present in a song description a user likes, search for the keywords in other song descriptions to estimate similarities among them, and based on that, recommend those songs to the user.
+In a few words, the thought behind is to extract purposeful keywords gift in an exceedingly song description a user likes, rummage around for the keywords in different song descriptions to estimate similarities among them, and supported that, suggest those songs to the user.
 
-How is this performed?
+How is that this performed?
 
-In our project, since we are working with text and words, Term Frequency-Inverse Document Frequency (TF-IDF) can be used for this matching process.
+In our project, since we have a tendency to operating with text and words, Term Frequency-Inverse Document Frequency (TF-IDF) is used for this matching method.
 
 **Team Members:** 
 - Thivya Tamil Selvam
 - Anbu Selvi A/P M Paramasivan
-- Noah Brynner
-- Redwan
-
+- Noah Brynner Wee Supitang
+- Radwan Mohammed Rashed Mahdi
 
 - [ ] **Objectives:**
 - Break out the project goal into more specific objectives
